@@ -8,3 +8,4 @@ CREATE TABLE "wallets" (
   CONSTRAINT "UQ_35472b1fe48b6330cd349709564" UNIQUE ("userId"),
   CONSTRAINT "PK_bec464dd8d54c39c54fd32e2334" PRIMARY KEY ("id")
 )
+--comment
