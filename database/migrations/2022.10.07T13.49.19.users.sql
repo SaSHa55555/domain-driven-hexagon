@@ -11,3 +11,4 @@ CREATE TABLE "users" (
   CONSTRAINT "PK_cace4a159ff9f2512dd42373760" PRIMARY KEY ("id")
 )
 --comment 2
+--comment 3
